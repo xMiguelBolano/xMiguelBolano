@@ -40,6 +40,6 @@ I'm a systems engineering student with experience in cross-platform software dev
 <!-- github stats -->
 <h3>My GitHub Stats</h3>
 <div align="center">
-  <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=xMiguelBolano&show_icons=true&theme=dark&locale=en&layout=compact" alt="xMiguelBolano" /></p>
-  <p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=xMiguelBolano&show_icons=true&theme=dark&locale=en" alt="xMiguelBolano" /></p>
+  <p><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=xMiguelBolano&show_icons=true&theme=dark&locale=en&layout=compact" alt="xMiguelBolano" /></p>
+  <p><img align="center" src="https://github-stats-extended.vercel.app/api?username=xMiguelBolano&show_icons=true&theme=dark&locale=en" alt="xMiguelBolano" /></p>
 </div>
